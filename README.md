@@ -3,11 +3,11 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
-_Add documentation to your GitHub README file. You can refer to the relevant lesson in the prerequisites for this task for more information.
+_Add documentation to your GitHub README file. You can refer to the relevant lesson in the prerequisites for this task for more information._
 
-At minimum, your README file should contain the following information:
+_At minimum, your README file should contain the following information:_
 
-Project Title
+_Project Title
 Table of Contents, if the README file is long
 A description of the project: what it does, the aim of the project, and what you learned
 Installation instructions
