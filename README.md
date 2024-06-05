@@ -42,10 +42,10 @@ The aim of this project is to:
 2. **Follow the prompts** to guess letters and try to figure out the word before running out of lives.
 
 ## File Structure
-hangman-game/
-├── README.md # Project documentation
-├── milestone_4.py # Code from milestone 4
-└── milestone_5.py # Final game code with play_game function
+- hangman-game/
+- ├── README.md # Project documentation
+- ├── milestone_4.py # Code from milestone 4
+- └── milestone_5.py # Final game code with play_game function
 
 ## License
 This project is licensed under the MIT License.
