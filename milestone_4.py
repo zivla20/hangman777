@@ -20,7 +20,9 @@ class Hangman:
         self.num_letters -= 1
       return True
     else:
-      print("Sorry, {guess} is not in the word. Try again.")
+      print(f"Sorry, {guess} is not in the word.")
+      self.num_lives -= 1
+      print(f"You have {self.num_lives} lives left.")
       return False
 
   def ask_for_input(self):
